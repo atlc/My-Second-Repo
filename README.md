@@ -1,7 +1,7 @@
 # My Second Repository
 
 Plans list:
-* Complete Covalence Online bootcamp
+* Complete Covalence Online bootcamp by October/November
 * Work in development for ~1 year
 * Begin enrollment in a part-time/online Bachelor's program in CS
     * [Auburn Bachelors of Science - CS **(online)**](https://onlinedegrees.auburn.edu/computer-science/)
